@@ -1,0 +1,140 @@
+[
+  {
+    "color_name": "Aussie Palette",
+    "category": "Aussie_Palette",
+    "image": "https://i.ibb.co/SXSdRJR/asian.png",
+    "color": [
+      "#f6e58d",
+      "#ffbe76",
+      "#ff7979",
+      "#badc58",
+      "#dff9fb",
+      "#f9ca24",
+      "#f0932b",
+      "#eb4d4b",
+      "#e056fd",
+      "#686de0",
+      "#686de0",
+      "#30336b",
+      "#30336b",
+      "#130f40",
+      "#ffbe76",
+      "#badc58"
+    ]
+  },
+  {
+    "color_name": "British Palette",
+    "category": "British_Palette",
+    "image": "https://i.ibb.co/9TLy5s3/british.png",
+    "color": [
+      "#00a8ff",
+      "#9c88ff",
+      "#fbc531",
+      "#4cd137",
+      "#487eb0",
+      "#7f8fa6",
+      "#273c75",
+      "#353b48",
+      "#c23616",
+      "#192a56",
+      "#718093",
+      "#718093",
+      "#dcdde1",
+      "#7f8fa6",
+      "#4cd137",
+      "#273c75"
+    ]
+  },
+  {
+    "color_name": "Canadian Palette",
+    "category": "Canadian_Palette",
+    "image": "https://i.ibb.co/p0HHZYd/canadian.png",
+    "color": [
+      "#ff9ff3",
+      "#feca57",
+      "#ff6b6b",
+      "#48dbfb",
+      "#1dd1a1",
+      "#f368e0",
+      "#ff9f43",
+      "#ee5253",
+      "#5f27cd",
+      "#576574",
+      "#341f97",
+      "#8395a7",
+      "#222f3e",
+      "#00d2d3",
+      "#ff6b6b",
+      "#ee5253"
+    ]
+  },
+  {
+    "color_name": "Dutch Palette",
+    "category": "Dutch_Palette",
+    "image": "https://i.ibb.co/rcFwDKP/dutch.png",
+    "color": [
+      "#FFC312",
+      "#C4E538",
+      "#12CBC4",
+      "#FDA7DF",
+      "#FDA7DF",
+      "#F79F1F",
+      "#A3CB38",
+      "#1289A7",
+      "#D980FA",
+      "#B53471",
+      "#EE5A24",
+      "#009432",
+      "#9980FA",
+      "#1B1464",
+      "#FDA7DF",
+      "#1289A7"
+    ]
+  },
+  {
+    "color_name": "Indian Palette",
+    "category": "Indian_Palette",
+    "image": "https://i.ibb.co/zJc9s2Q/indian.png",
+    "color": [
+      "#FEA47F",
+      "#25CCF7",
+      "#EAB543",
+      "#55E6C1",
+      "#CAD3C8",
+      "#F97F51",
+      "#1B9CFC",
+      "#F8EFBA",
+      "#58B19F",
+      "#2C3A47",
+      "#B33771",
+      "#3B3B98",
+      "#FD7272",
+      "#FD7272",
+      "#25CCF7",
+      "#58B19F"
+    ]
+  },
+  {
+    "color_name": "Russian Palette",
+    "category": "Russian_Palette",
+    "image": "https://i.ibb.co/GcNVtBr/rashia.png",
+    "color": [
+      "#303952",
+      "#e66767",
+      "#3dc1d3",
+      "#f78fb3",
+      "#574b90",
+      "#596275",
+      "#ea8685",
+      "#ea8685",
+      "#63cdda",
+      "#f8a5c2",
+      "#f8a5c2",
+      "#786fa6",
+      "#f8a5c2",
+      "#546de5",
+      "#303952",
+      "#63cdda"
+    ]
+  }
+]

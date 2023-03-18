@@ -1,0 +1,518 @@
+[
+  {
+    "color_name": "Aussie Palette",
+    "category": "Aussie_Palette",
+    "colors": [
+      {
+        "name": "Beekeeper",
+        "color_code": "#f6e58d"
+      },
+      {
+        "name": "Spiced Nectarine",
+        "color_code": "#ffbe76"
+      },
+      {
+        "name": "Pink Glamour",
+        "color_code": "#ff7979"
+      },
+      {
+        "name": "June Bud",
+        "color_code": "#badc58"
+      },
+      {
+        "name": "Coastal Breeze",
+        "color_code": "#dff9fb"
+      },
+      {
+        "name": "Turbo",
+        "color_code": "#f9ca24"
+      },
+      {
+        "name": "Quince Jelly",
+        "color_code": "#f0932b"
+      },
+      {
+        "name": "Carmine Pink",
+        "color_code": "#eb4d4b"
+      },
+      {
+        "name": "Pure Apple",
+        "color_code": "#6ab04c"
+      },
+      {
+        "name": "Hint of Ice Pack",
+        "color_code": "#c7ecee"
+      },
+      {
+        "name": "Middle Blue",
+        "color_code": "#7ed6df"
+      },
+      {
+        "name": "Heliotrope",
+        "color_code": "#e056fd"
+      },
+      {
+        "name": "Exodus Fruit",
+        "color_code": "#686de0"
+      },
+      {
+        "name": "Deep Koamaru",
+        "color_code": "#30336b"
+      },
+      {
+        "name": "Soaring Eagle",
+        "color_code": "#95afc0"
+      },
+      {
+        "name": "Greenland Green",
+        "color_code": "#22a6b3"
+      },
+      {
+        "name": "Steel Pink",
+        "color_code": "#be2edd"
+      },
+      {
+        "name": "Blurple",
+        "color_code": "#4834d4"
+      },
+      {
+        "name": "Deep Cove",
+        "color_code": "#130f40"
+      },
+      {
+        "name": "Wizard Grey",
+        "color_code": "#535c68"
+      }
+    ]
+  },
+  {
+    "color_name": "British Palette",
+    "category": "British_Palette",
+    "colors": [
+      {
+        "name": "Protoss Pylon",
+        "color_code": "#00a8ff"
+      },
+      {
+        "name": "Periwinkle",
+        "color_code": "#9c88ff"
+      },
+      {
+        "name": "Rise-N-Shine",
+        "color_code": "#fbc531"
+      },
+      {
+        "name": "Download Progress",
+        "color_code": "#4cd137"
+      },
+      {
+        "name": "Seabrook",
+        "color_code": "#487eb0"
+      },
+      {
+        "name": "Vanadyl Blue",
+        "color_code": "#0097e6"
+      },
+      {
+        "name": "Matt Purple",
+        "color_code": "#8c7ae6"
+      },
+      {
+        "name": "Nanohanacha Gold",
+        "color_code": "#e1b12c"
+      },
+      {
+        "name": "Skirret Green",
+        "color_code": "#44bd32"
+      },
+      {
+        "name": "Naval",
+        "color_code": "#40739e"
+      },
+      {
+        "name": "Nasturcian Flower",
+        "color_code": "#e84118"
+      },
+      {
+        "name": "Lynx White",
+        "color_code": "#f5f6fa"
+      },
+      {
+        "name": "Blueberry Soda",
+        "color_code": "#7f8fa6"
+      },
+      {
+        "name": "Mazarine Blue",
+        "color_code": "#273c75"
+      },
+      {
+        "name": "Blue Nights",
+        "color_code": "#353b48"
+      },
+      {
+        "name": "Harley Davidson Orange",
+        "color_code": "#c23616"
+      },
+      {
+        "name": "Hint of Pensive",
+        "color_code": "#dcdde1"
+      },
+      {
+        "name": "Chain Gang Grey",
+        "color_code": "#718093"
+      },
+      {
+        "name": "Pico Void",
+        "color_code": "#192a56"
+      },
+      {
+        "name": "Electromagnetic",
+        "color_code": "#2f3640"
+      }
+    ]
+  },
+  {
+    "color_name": "Canadian Palette",
+    "category": "Canadian_Palette",
+    "colors": [
+      {
+        "name": "Jigglypuff",
+        "color_code": "#ff9ff3"
+      },
+      {
+        "name": "Casandora Yellow",
+        "color_code": "#feca57"
+      },
+      {
+        "name": "Pastel Red",
+        "color_code": "#ff6b6b"
+      },
+      {
+        "name": "Megaman",
+        "color_code": "#48dbfb"
+      },
+      {
+        "name": "Wild Caribbean Green",
+        "color_code": "#1dd1a1"
+      },
+      {
+        "name": "Lián Hóng Lotus Pink",
+        "color_code": "#f368e0"
+      },
+      {
+        "name": "Double Dragon Skin",
+        "color_code": "#ff9f43"
+      },
+      {
+        "name": "Amour",
+        "color_code": "#ee5253"
+      },
+      {
+        "name": "Cyanite",
+        "color_code": "#0abde3"
+      },
+      {
+        "name": "Dark Mountain Meadow",
+        "color_code": "#10ac84"
+      },
+      {
+        "name": "Jade Dust",
+        "color_code": "#00d2d3"
+      },
+      {
+        "name": "Joust Blue",
+        "color_code": "#54a0ff"
+      },
+      {
+        "name": "Nasu Purple",
+        "color_code": "#5f27cd"
+      },
+      {
+        "name": "Light Blue Ballerina",
+        "color_code": "#c8d6e5"
+      },
+      {
+        "name": "Fuel Town",
+        "color_code": "#576574"
+      },
+      {
+        "name": "Aqua Velvet",
+        "color_code": "#01a3a4"
+      },
+      {
+        "name": "Bleu De France",
+        "color_code": "#2e86de"
+      },
+      {
+        "name": "Bluebell",
+        "color_code": "#341f97"
+      },
+      {
+        "name": "Storm Petrel",
+        "color_code": "#8395a7"
+      },
+      {
+        "name": "Imperial Primer",
+        "color_code": "#222f3e"
+      }
+    ]
+  },
+  {
+    "color_name": "Dutch Palette",
+    "category": "Dutch_Palette",
+    "colors": [
+      {
+        "name": "Sunflower",
+        "color_code": "#FFC312"
+      },
+      {
+        "name": "Energos",
+        "color_code": "#C4E538"
+      },
+      {
+        "name": "Blue Martina",
+        "color_code": "#12CBC4"
+      },
+      {
+        "name": "Lavender Rose",
+        "color_code": "#FDA7DF"
+      },
+      {
+        "name": "Bara Red",
+        "color_code": "#ED4C67"
+      },
+      {
+        "name": "Radiant Yellow",
+        "color_code": "#F79F1F"
+      },
+      {
+        "name": "Android Green",
+        "color_code": "#A3CB38"
+      },
+      {
+        "name": "Mediterranean Sea",
+        "color_code": "#1289A7"
+      },
+      {
+        "name": "Lavender Tea",
+        "color_code": "#D980FA"
+      },
+      {
+        "name": "Very Berry",
+        "color_code": "#B53471"
+      },
+      {
+        "name": "Puffins Bill",
+        "color_code": "#EE5A24"
+      },
+      {
+        "name": "Pixelated Grass",
+        "color_code": "#009432"
+      },
+      {
+        "name": "Merchant Marine Blue",
+        "color_code": "#0652DD"
+      },
+      {
+        "name": "Forgotten Purple",
+        "color_code": "#9980FA"
+      },
+      {
+        "name": "Hollyhock",
+        "color_code": "#833471"
+      },
+      {
+        "name": "Red Pigment",
+        "color_code": "#EA2027"
+      },
+      {
+        "name": "Turkish Aqua",
+        "color_code": "#006266"
+      },
+      {
+        "name": "20000 Leagues Under the Sea",
+        "color_code": "#1B1464"
+      },
+      {
+        "name": "Circumorbital Ring",
+        "color_code": "#5758BB"
+      },
+      {
+        "name": "Magenta Purple",
+        "color_code": "#6F1E51"
+      }
+    ]
+  },
+  {
+    "color_name": "Indian Palette",
+    "category": "Indian_Palette",
+    "colors": [
+      {
+        "name": "Orchid Orange",
+        "color_code": "#FEA47F"
+      },
+      {
+        "name": "Spiro Disco Ball",
+        "color_code": "#25CCF7"
+      },
+      {
+        "name": "Honey Glow",
+        "color_code": "#EAB543"
+      },
+      {
+        "name": "Sweet Garden",
+        "color_code": "#55E6C1"
+      },
+      {
+        "name": "Falling Star",
+        "color_code": "#CAD3C8"
+      },
+      {
+        "name": "Rich Gardenia",
+        "color_code": "#F97F51"
+      },
+      {
+        "name": "Clear Chill",
+        "color_code": "#1B9CFC"
+      },
+      {
+        "name": "Sarawak White Pepper",
+        "color_code": "#F8EFBA"
+      },
+      {
+        "name": "Keppel",
+        "color_code": "#58B19F"
+      },
+      {
+        "name": "Ship's Officer",
+        "color_code": "#2C3A47"
+      },
+      {
+        "name": "Fiery Fuchsia",
+        "color_code": "#B33771"
+      },
+      {
+        "name": "Bluebell",
+        "color_code": "#3B3B98"
+      },
+      {
+        "name": "Georgia Peach",
+        "color_code": "#FD7272"
+      },
+      {
+        "name": "Oasis Stream",
+        "color_code": "#9AECDB"
+      },
+      {
+        "name": "Bright Ube",
+        "color_code": "#D6A2E8"
+      },
+      {
+        "name": "Magenta Purple",
+        "color_code": "#6D214F"
+      },
+      {
+        "name": "Ending Navy Blue",
+        "color_code": "#182C61"
+      },
+      {
+        "name": "Sasquatch Socks",
+        "color_code": "#FC427B"
+      },
+      {
+        "name": "Pine Glade",
+        "color_code": "#BDC581"
+      },
+      {
+        "name": "Highlighter Lavender",
+        "color_code": "#82589F"
+      }
+    ]
+  },
+  {
+    "color_name": "Russian Palette",
+    "category": "Russian_Palette",
+    "colors": [
+      {
+        "name": "Creamy Peach",
+        "color_code": "#f3a683"
+      },
+      {
+        "name": "Rosy Highlight",
+        "color_code": "#f7d794"
+      },
+      {
+        "name": "Soft Blue",
+        "color_code": "#778beb"
+      },
+      {
+        "name": "Brewed Mustard",
+        "color_code": "#e77f67"
+      },
+      {
+        "name": "Old Geranium",
+        "color_code": "#cf6a87"
+      },
+      {
+        "name": "Sawtooth Aak",
+        "color_code": "#f19066"
+      },
+      {
+        "name": "Summertime",
+        "color_code": "#f5cd79"
+      },
+      {
+        "name": "Cornflower",
+        "color_code": "#546de5"
+      },
+      {
+        "name": "Tigerlily",
+        "color_code": "#e15f41"
+      },
+      {
+        "name": "Deep Rose",
+        "color_code": "#c44569"
+      },
+      {
+        "name": "Purple Mountain Majesty",
+        "color_code": "#786fa6"
+      },
+      {
+        "name": "Rogue Pink",
+        "color_code": "#f8a5c2"
+      },
+      {
+        "name": "Squeaky",
+        "color_code": "#63cdda"
+      },
+      {
+        "name": "Apple Valley",
+        "color_code": "#ea8685"
+      },
+      {
+        "name": "Pencil Lead",
+        "color_code": "#596275"
+      },
+      {
+        "name": "Purple Corallite",
+        "color_code": "#574b90"
+      },
+      {
+        "name": "Flamingo Pink",
+        "color_code": "#f78fb3"
+      },
+      {
+        "name": "Blue Curacao",
+        "color_code": "#3dc1d3"
+      },
+      {
+        "name": "Porcelain Rose",
+        "color_code": "#e66767"
+      },
+      {
+        "name": "Biscay",
+        "color_code": "#303952"
+      }
+    ]
+  }
+]

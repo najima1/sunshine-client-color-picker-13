@@ -1,0 +1,15 @@
+.category_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+.small_color_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(76px, 1fr));
+}
+.bg_img {
+  background-image: url("../../image/start.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}

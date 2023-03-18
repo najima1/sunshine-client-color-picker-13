@@ -1,0 +1,16 @@
+.color_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+.color_box_model {
+  width: 100%;
+  height: 150px;
+}
+.copy {
+  display: none;
+  transition: 0.5s;
+}
+.copy_parent:hover .copy {
+  display: block;
+  transition: 0.5s;
+}
