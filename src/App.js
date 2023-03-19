@@ -15,6 +15,7 @@ import {
 } from 'react-query'
 
 import axios from 'axios';
+import { Toaster } from 'react-hot-toast';
 
 
 axios.defaults.baseURL = process.env.REACT_APP_BASE_URL
@@ -29,6 +30,8 @@ function App() {
           <QueryClientProvider client={queryClient}>
 
             <RouterProvider router={router} />
+            <div><Toaster position="top-right"
+              reverseOrder={false} /></div>
 
           </QueryClientProvider>
         </ProSidebarProvider>

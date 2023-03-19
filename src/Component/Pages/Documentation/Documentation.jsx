@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Documentation = () => {
   return (
-    <div>
-      <h1>Documentation</h1>
+    <div className="flex items-center justify-center h-screen text-5xl font-semibold text-[#273c75]">
+      <h1>COMING SOON</h1>
     </div>
   );
-}
+};
 
-export default Documentation
+export default Documentation;

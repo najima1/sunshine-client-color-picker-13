@@ -34,7 +34,7 @@ const Color_templete = ({ colors, setColor_bg }) => {
         data-aos="fade-up"
         data-aos-anchor-placement="center-bottom"
         data-aos-easing="linear"
-        data-aos-duration="1000"
+        data-aos-duration="600"
       >
         <div
           onClick={() => copyHandelar(colors?.color_code)}

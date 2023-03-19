@@ -1,0 +1,22 @@
+.react-colorful {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 55% !important;
+  height: 200px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.react-colorful__hue {
+  /* min-width: 260%; */
+  height: 30px;
+}
+
+.react-colorful__alpha.react-colorful__last-control {
+  /* min-width: 260%; */
+  height: 29px;
+}

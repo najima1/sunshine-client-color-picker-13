@@ -46,7 +46,6 @@ const SidebarPro = () => {
           </Menu>
         </Sidebar>
       </div>
-      ;
     </>
   );
 };
