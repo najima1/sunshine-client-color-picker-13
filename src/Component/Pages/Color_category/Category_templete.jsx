@@ -6,9 +6,9 @@ import { Link } from "react-router-dom";
 const Category_templete = ({ color }) => {
   return (
     <div
-      data-aos="fade-right"
-      data-aos-offset="300"
-      data-aos-easing="ease-in-sine"
+      data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom"
+      data-aos-duration="1000"
     >
       <Link to={`/color/${color?.category}`}>
         <div className="border-[5px] border-orange-400 p-1 rounded-md bg-white">
