@@ -4,4 +4,4 @@
 1. Generate your favorite colors
 2. Make your won color
 
-##Live Demo https://jazzy-rugelach-b387c6.netlify.app
+## Live Demo https://jazzy-rugelach-b387c6.netlify.app
